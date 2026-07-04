@@ -5,7 +5,7 @@ export const assignments = [
     title: "Máy tính và các thiết bị ngoại vi",
     icon: "🖥️",
     tags: ["Phần cứng", "Thiết bị ngoại vi", "Công nghệ"],
-    pdfLink: "https://drive.google.com/file/d/113-RqqvYo-IVb96kwmMzOBiR9atNcPfM/view?usp=drive_link",
+    pdfLink: "https://drive.google.com",
     goal: "Hiểu cấu tạo, chức năng của máy tính và các thiết bị ngoại vi thông dụng trong học tập và làm việc.",
     summary: "Thực hiện tìm hiểu các thành phần cơ bản của máy tính (CPU, RAM, ổ cứng…) và các thiết bị ngoại vi (bàn phím, chuột, máy in, máy chiếu…). Trình bày dưới dạng báo cáo có hình ảnh minh họa.",
     sections: [
@@ -42,7 +42,7 @@ export const assignments = [
     title: "Khai thác dữ liệu và thông tin",
     icon: "🔍",
     tags: ["Tìm kiếm", "Dữ liệu", "Thông tin số"],
-    pdfLink: "https://drive.google.com/file/d/1PdgY2o8Vr4T1CEUsgpnyP1StLhPHeWMR/view?usp=drive_link",
+    pdfLink: "https://drive.google.com",
     goal: "Nắm vững kỹ năng tìm kiếm, đánh giá và sử dụng thông tin trên môi trường số một cách hiệu quả và có trách nhiệm.",
     summary: "Thực hành tìm kiếm thông tin trên internet với các công cụ tìm kiếm nâng cao, đánh giá độ tin cậy của nguồn tin và tổng hợp dữ liệu phục vụ học tập.",
     sections: [
@@ -82,7 +82,7 @@ export const assignments = [
     title: "Tổng quan về trí tuệ nhân tạo",
     icon: "🤖",
     tags: ["Trí tuệ nhân tạo", "AI", "Prompt Engineering"],
-    pdfLink: "https://drive.google.com/file/d/1-BTJOYAC72YQTHz30E8rRuN31UmeXuDt/view?usp=drive_link",
+    pdfLink: "https://drive.google.com",
     goal: "Có cái nhìn tổng quát về trí tuệ nhân tạo (AI), các ứng dụng thực tiễn và tác động của AI đến cuộc sống hiện đại.",
     summary: "Nghiên cứu Prompt Engineering — kỹ năng thiết kế câu lệnh để khai thác tối đa hiệu năng của các Mô hình Ngôn ngữ Lớn (LLMs) trong học tập và nghiên cứu chuyên ngành.",
     sections: [
@@ -118,7 +118,7 @@ export const assignments = [
     title: "Giao tiếp và hợp tác trong môi trường số",
     icon: "💬",
     tags: ["Giao tiếp số", "Teamwork", "Cộng tác"],
-    pdfLink: "https://drive.google.com/file/d/1KxELZ6yORUTopSigMTIcVyCwTMYX5IB6/view?usp=drive_link",
+    pdfLink: "https://drive.google.com",
     goal: "Phát triển kỹ năng giao tiếp chuyên nghiệp và hợp tác nhóm hiệu quả thông qua các công cụ kỹ thuật số.",
     summary: "Thực hành sử dụng các nền tảng cộng tác như Google Workspace, Microsoft Teams, Trello trong dự án nhóm thực tế — với vai trò Điều phối viên kiêm Chuyên viên phân tích hệ thống.",
     sections: [
@@ -155,7 +155,7 @@ export const assignments = [
     title: "Sáng tạo nội dung số",
     icon: "✨",
     tags: ["Nội dung số", "Thiết kế", "AI tạo sinh"],
-    pdfLink: "https://drive.google.com/file/d/1ZtTnM_FgvmMeYHiVqzGuxk30A4fA5Xio/view?usp=drive_link",
+    pdfLink: "https://drive.google.com",
     goal: "Phát triển kỹ năng tạo ra các nội dung số chất lượng như văn bản, hình ảnh, video phục vụ mục đích học tập và truyền thông.",
     summary: "Sản xuất bài viết chuyên sâu tích hợp Infographic về chủ đề 'Kỷ Nguyên AI và Tương lai Nghề nghiệp của Thế Hệ Trẻ' sử dụng Google Gemini, Claude AI, DALL-E 3, Midjourney và Canva AI.",
     sections: [
@@ -191,7 +191,7 @@ export const assignments = [
     title: "An toàn và liêm chính học thuật trong môi trường số",
     icon: "🔒",
     tags: ["An toàn mạng", "Học thuật", "Đạo đức số"],
-    pdfLink: "https://drive.google.com/file/d/1MQEaD3fz8W4-P-HhkNgmzr8rW8pO4s9D/view?usp=drive_link",
+    pdfLink: "https://drive.google.com",
     goal: "Nâng cao nhận thức về an toàn thông tin, quyền riêng tư và đạo đức học thuật trong môi trường kỹ thuật số.",
     summary: "Nghiên cứu ranh giới đạo đức trong sử dụng AI học thuật, quy trình 3 bước làm chủ công cụ AI tạo sinh và bộ 5 nguyên tắc vàng dành cho sinh viên đại học.",
     sections: [
